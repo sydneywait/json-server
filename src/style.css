@@ -1,0 +1,13 @@
+.foodList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.food-object{
+    border: black solid 1px;
+    padding: 1em;
+    margin-bottom: 1em;
+    width: 20vw;
+}
